@@ -41617,7 +41617,7 @@ l=A.aC(["email",a,"timeStamp",b],t.N,m)
 k=A.ayz(u.F)
 k.a="POST"
 s=7
-return A.a1(n.a.Ey(0,"https://app-env.eba-dppnc8ts.us-west-1.elasticbeanstalk.com/updateinfo",null,l,null,null,k,null,m),$async$t0)
+return A.a1(n.a.Ey(0,"https://api.vission.in/updateinfo",null,l,null,null,k,null,m),$async$t0)
 case 7:m=d
 q=m
 s=1
